@@ -1,10 +1,1 @@
-1. Terminal ve proje bileşenlerine git:
-cd C:\Users\SILA TAŞTEKİN\yorum-analizörü
-
-2. Sanal ortamlar aktif et:
-venv\Scripts\activate
-Başında (venv)teslim olmak demektir.
-
-3. Uygula başlat:
-streamlit run app.py
-Tarayıcıyı otomatik olarak açabilir, CSV'yi yükleyip analiz edebilirsin.
+ 
