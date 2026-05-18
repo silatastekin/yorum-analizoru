@@ -81,7 +81,7 @@ Tek sütun yeterli — sütun adı `yorum` olmalı.
 
 ---
 
-## 🤖 Model Hakkında
+## Model Hakkında
 
 Bu projede [savasy/bert-base-turkish-sentiment-cased](https://huggingface.co/savasy/bert-base-turkish-sentiment-cased) modeli kullanılmaktadır. Model, Türkçe metinler üzerinde eğitilmiş bir BERT modelidir ve duygu analizi (sentiment analysis) görevinde yüksek başarı göstermektedir.
 
@@ -89,7 +89,7 @@ Bu projede [savasy/bert-base-turkish-sentiment-cased](https://huggingface.co/sav
 
 ---
 
-## 👩‍💻 Geliştirici
+## Geliştirici
 
 **Sıla Taştekin**  
 [github.com/silatastekin](https://github.com/silatastekin)
