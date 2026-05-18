@@ -33,7 +33,7 @@ Türkçe müşteri yorumlarını yapay zeka ile otomatik olarak **olumlu** veya 
 
 ---
 
-## ⚙️ Kurulum
+## Kurulum
 
 ### 1. Repoyu klonla
 ```bash
