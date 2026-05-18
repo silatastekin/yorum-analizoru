@@ -96,6 +96,6 @@ Bu projede [savasy/bert-base-turkish-sentiment-cased](https://huggingface.co/sav
 
 ---
 
-## 📄 Lisans
+## Lisans
 
 Bu proje açık kaynaklıdır ve serbestçe kullanılabilir.
